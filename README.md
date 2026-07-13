@@ -71,6 +71,7 @@ Voice recording uses Discord's own voice module, and the audio only goes to the 
 - [Vencord](https://github.com/Vendicated/Vencord) — the client mod this runs on. The release zip is a Vencord build, unmodified except for this plugin.
 - [SymSpell](https://github.com/wolfgarbe/SymSpell) — the word frequency dictionary
 - Whisper (via [Groq](https://groq.com)) — speech to text
+
 CREDITS TO O3ZX @nadi8820 on DISCORD!!   HE CREATED THIS SHIT  BUT ITS MY IDEA ok
 
 ## License
